@@ -1,4 +1,4 @@
 # second-repo
-this is my second repo
+This is my second repo
 <br>
-author - priya
+Author - Priya
